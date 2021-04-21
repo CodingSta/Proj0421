@@ -1,0 +1,15 @@
+/Users/codingstar/.ssh/Proj0421/bin/Debug/net5.0/Proj0421.deps.json
+/Users/codingstar/.ssh/Proj0421/bin/Debug/net5.0/Proj0421.runtimeconfig.json
+/Users/codingstar/.ssh/Proj0421/bin/Debug/net5.0/Proj0421.runtimeconfig.dev.json
+/Users/codingstar/.ssh/Proj0421/bin/Debug/net5.0/Proj0421.dll
+/Users/codingstar/.ssh/Proj0421/bin/Debug/net5.0/ref/Proj0421.dll
+/Users/codingstar/.ssh/Proj0421/bin/Debug/net5.0/Proj0421.pdb
+/Users/codingstar/.ssh/Proj0421/obj/Debug/net5.0/Proj0421.csprojAssemblyReference.cache
+/Users/codingstar/.ssh/Proj0421/obj/Debug/net5.0/Proj0421.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codingstar/.ssh/Proj0421/obj/Debug/net5.0/Proj0421.AssemblyInfoInputs.cache
+/Users/codingstar/.ssh/Proj0421/obj/Debug/net5.0/Proj0421.AssemblyInfo.cs
+/Users/codingstar/.ssh/Proj0421/obj/Debug/net5.0/Proj0421.csproj.CoreCompileInputs.cache
+/Users/codingstar/.ssh/Proj0421/obj/Debug/net5.0/Proj0421.dll
+/Users/codingstar/.ssh/Proj0421/obj/Debug/net5.0/ref/Proj0421.dll
+/Users/codingstar/.ssh/Proj0421/obj/Debug/net5.0/Proj0421.pdb
+/Users/codingstar/.ssh/Proj0421/obj/Debug/net5.0/Proj0421.genruntimeconfig.cache
